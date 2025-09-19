@@ -1,0 +1,10 @@
+.wrap { display: flex; justify-content: center; padding: 10px 0 24px; }
+.btn {
+  padding: 12px 18px;
+  border: 1px solid #dfe3ee;
+  border-radius: 12px;
+  background:#fff;
+  cursor: pointer;
+  font-weight: 600;
+}
+.btn:hover { background:#0b102b; color:#fff; }
